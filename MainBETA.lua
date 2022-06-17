@@ -1,5 +1,4 @@
 -- gui toggle is right control
--- FUCK OBFUSCATORS, #FREESKRIPTS!
 -- i have 5 copies of this in different hard drives and this will be reposted until infinity.
 
 -- Anti JJSploit Script
