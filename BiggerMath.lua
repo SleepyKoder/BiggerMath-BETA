@@ -4312,9 +4312,9 @@ end
 		end)
 	end
 	local Creds = ExecutorWindow:AddTab("Credits")
-	Creds:AddLabel("Made by Jakekill871#9002")
-	Creds:AddLabel("Hevily Edited by SleepyKoder")
-	Creds:AddLabel("BiggerMath is licenced to SleepyKoder LLC, 2019-2022")
+	Creds:AddLabel("Legacy Code! Please discard!")
+	Creds:AddLabel("https://github.com/SleepyKoder")
+	Creds:AddLabel("This is legacy code, please discard")
 	ExeTab:Show()
 	library:FormatWindows()
 end
